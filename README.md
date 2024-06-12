@@ -17,3 +17,6 @@ cd tauri-sql-demo
 pnpm install
 pnpm tauri dev
 ```
+
+## 具体操作
+- [https://yuxuetr.com/blog/2024/03/08/tauri-sql-conf](https://yuxuetr.com/blog/2024/03/08/tauri-sql-conf)
